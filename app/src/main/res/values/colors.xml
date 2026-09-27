@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Warna Utama & Header -->
+    <color name="header_primary">#5C3D2E</color>
+    <color name="header_secondary">#8C5A46</color>
+    <color name="bg_main">#FAFAFA</color>
+    <color name="card_bg">#FFFFFF</color>
+
+    <!-- Warna Teks & Accent -->
+    <color name="text_title">#2C1D11</color>
+    <color name="text_sub">#7A685D</color>
+    <color name="price_tag">#D97706</color>
+
+    <!-- Element UI -->
+    <color name="search_border">#E5D9D0</color>
+</resources>
